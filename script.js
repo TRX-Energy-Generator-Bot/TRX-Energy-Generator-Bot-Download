@@ -1,0 +1,1 @@
+console.log("TRX Energy Generator Bot  is active!");
